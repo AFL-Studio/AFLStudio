@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AFLCommonLib", "AFLCommonLib\AFLCommonLib.csproj", "{963AA1D3-3901-465E-B28C-84A9E44E1E30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AFLStudioClient", "AFLStudioClient\AFLStudioClient.csproj", "{B97AC2C1-FD74-4A1B-A51E-49B95FC412AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AFLStudioServer", "AFLStudioServer\AFLStudioServer.csproj", "{397DEBD5-4D43-465C-9AC0-F244CED8BA7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{963AA1D3-3901-465E-B28C-84A9E44E1E30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{963AA1D3-3901-465E-B28C-84A9E44E1E30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{963AA1D3-3901-465E-B28C-84A9E44E1E30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{963AA1D3-3901-465E-B28C-84A9E44E1E30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B97AC2C1-FD74-4A1B-A51E-49B95FC412AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B97AC2C1-FD74-4A1B-A51E-49B95FC412AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B97AC2C1-FD74-4A1B-A51E-49B95FC412AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B97AC2C1-FD74-4A1B-A51E-49B95FC412AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{397DEBD5-4D43-465C-9AC0-F244CED8BA7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{397DEBD5-4D43-465C-9AC0-F244CED8BA7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{397DEBD5-4D43-465C-9AC0-F244CED8BA7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{397DEBD5-4D43-465C-9AC0-F244CED8BA7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

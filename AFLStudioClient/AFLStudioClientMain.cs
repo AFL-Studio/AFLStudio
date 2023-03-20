@@ -1,9 +1,17 @@
-﻿internal class Program
+﻿
+namespace AFLClientNamespace
 {
-    private static void Main(string[] args)
+    public class Program
     {
-        Console.WriteLine("Hello, World!");
-        Console.WriteLine("Hello, the fucking Client World!");
-        Console.WriteLine("Hello, He's cunning hero");
+        private static void Main(string[] args)
+        {
+            Console.WriteLine("Hello, World!");
+
+
+
+
+        
+
+        }
     }
 }

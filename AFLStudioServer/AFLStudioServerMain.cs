@@ -1,8 +1,23 @@
-﻿internal class Program
+﻿
+namespace AFLServerNamespace
 {
-    private static void Main(string[] args)
+    public class Program
     {
-        Console.WriteLine("Hello, World!");
-        Console.WriteLine("Hello, the fucking Server World!");
+        private static void Main(string[] args)
+        {
+            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Hello, the fucking Server World!");
+
+
+
+
+
+
+            
+            
+
+
+            
+        }
     }
 }
