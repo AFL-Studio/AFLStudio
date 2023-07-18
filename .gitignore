@@ -69,3 +69,9 @@ AFLCommonLib/obj/Debug/net7.0/AFLCommonLib.GlobalUsings.g.cs
 AFLCommonLib/obj/Debug/net7.0/AFLCommonLib.pdb
 AFLCommonLib/obj/Debug/net7.0/ref/AFLCommonLib.dll
 AFLCommonLib/obj/Debug/net7.0/refint/AFLCommonLib.dll
+AFLStudioClient/bin/Debug/net7.0/AFLCommonLib.dll
+AFLStudioClient/bin/Debug/net7.0/AFLCommonLib.pdb
+AFLStudioClient/obj/Debug/net7.0/AFLStudioClient.csproj.CopyComplete
+AFLStudioServer/bin/Debug/net7.0/AFLCommonLib.dll
+AFLStudioServer/bin/Debug/net7.0/AFLCommonLib.pdb
+AFLStudioServer/obj/Debug/net7.0/AFLStudioServer.csproj.CopyComplete

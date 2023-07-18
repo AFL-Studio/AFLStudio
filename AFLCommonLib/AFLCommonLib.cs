@@ -36,7 +36,7 @@ namespace AFLCommonLibNamespace
         /// </summary>
         /// <param name="strSerializedString"></param>
         /// <returns></returns>
-        public static object DeserializeFromString<T>(string strSerializedString)
+        public static object? DeserializeFromString<T>(string strSerializedString)
         {
             XmlSerializer serializer = new XmlSerializer(typeof(T));
             return serializer.Deserialize(new StringReader(strSerializedString));
