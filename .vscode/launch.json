@@ -9,7 +9,7 @@
             "name": ".NET Core Launch (console) for Server",
             "type": "coreclr",
             "request": "launch",
-            "preLaunchTask": "build",
+            "preLaunchTask": "build server",
             // If you have changed target frameworks, make sure to update the program path.
             "program": "${workspaceFolder}/AFLStudioServer/bin/Debug/net7.0/AFLStudioServer.dll",
             "args": [],
@@ -25,7 +25,7 @@
             "name": ".NET Core Launch (console) for Client",
             "type": "coreclr",
             "request": "launch",
-            "preLaunchTask": "build",
+            "preLaunchTask": "build client",
             // If you have changed target frameworks, make sure to update the program path.
             "program": "${workspaceFolder}/AFLStudioClient/bin/Debug/net7.0/AFLStudioClient.dll",
             "args": [],

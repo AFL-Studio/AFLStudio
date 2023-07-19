@@ -4,7 +4,7 @@
 
         // for Server
         {
-            "label": "build",
+            "label": "build server",
             "command": "dotnet",
             "type": "process",
             "args": [
@@ -16,7 +16,7 @@
             "problemMatcher": "$msCompile"
         },
         {
-            "label": "publish",
+            "label": "publish server",
             "command": "dotnet",
             "type": "process",
             "args": [
@@ -28,7 +28,7 @@
             "problemMatcher": "$msCompile"
         },
         {
-            "label": "watch",
+            "label": "watch server",
             "command": "dotnet",
             "type": "process",
             "args": [
@@ -42,7 +42,7 @@
 
         // for Client
         {
-            "label": "build",
+            "label": "build client",
             "command": "dotnet",
             "type": "process",
             "args": [
@@ -54,7 +54,7 @@
             "problemMatcher": "$msCompile"
         },
         {
-            "label": "publish",
+            "label": "publish client",
             "command": "dotnet",
             "type": "process",
             "args": [
@@ -66,7 +66,7 @@
             "problemMatcher": "$msCompile"
         },
         {
-            "label": "watch",
+            "label": "watch client",
             "command": "dotnet",
             "type": "process",
             "args": [
